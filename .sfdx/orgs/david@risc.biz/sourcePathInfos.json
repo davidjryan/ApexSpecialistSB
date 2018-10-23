@@ -1,0 +1,1742 @@
+[
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1540308307698,
+            "changeTime": 1540308307698,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1540264109117,
+            "changeTime": 1540264109117,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1540303688512,
+            "changeTime": 1540303688512,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 736,
+            "modifiedTime": 1540303688589,
+            "changeTime": 1540303688589,
+            "contentHash": "2da657db38d4b7240c4e920f4160194d3c3033ee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/addItemEvent",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/addItemEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1540303688522,
+            "changeTime": 1540303688522,
+            "contentHash": "bae0f91ee77c09e55b253f3c35a1ecf0d3056e70",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/addItemEvent/addItemEvent.evt",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/addItemEvent/addItemEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100,
+            "modifiedTime": 1540303688522,
+            "changeTime": 1540303688522,
+            "contentHash": "77fddb45540daa2d4b77e661329e401d32101836",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/addItemEvent/addItemEvent.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/addItemEvent/addItemEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 218,
+            "modifiedTime": 1540303688522,
+            "changeTime": 1540303688522,
+            "contentHash": "7e88144feedcf234e86acf36c62a3f649e71f9e2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/camping",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/camping",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1540303688524,
+            "changeTime": 1540303688524,
+            "contentHash": "f943cc93e08be09667b7fb5e751bd122ff50d0bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/camping/camping.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/camping/camping.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 79,
+            "modifiedTime": 1540303688524,
+            "changeTime": 1540303688524,
+            "contentHash": "606f830025b64461d17c1210afac2ecc789d7565",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/camping/camping.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/camping/camping.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1540303688524,
+            "changeTime": 1540303688524,
+            "contentHash": "2bd60384cf3d7e49c0c63a95af305641754b7449",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingHeader",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingHeader",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1540303688526,
+            "changeTime": 1540303688526,
+            "contentHash": "f9e17ba79905f922b8eaffdab445080276b29a33",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingHeader/campingHeader.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingHeader/campingHeader.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 612,
+            "modifiedTime": 1540303688526,
+            "changeTime": 1540303688526,
+            "contentHash": "3ae969df09e07d4d14eaa0e5495d102e20578501",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingHeader/campingHeader.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingHeader/campingHeader.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 206,
+            "modifiedTime": 1540303688525,
+            "changeTime": 1540303688525,
+            "contentHash": "4f7ee8a0ed05ba974b7bc35abe89bf6411b1c58b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingHeader/campingHeader.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingHeader/campingHeader.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 43,
+            "modifiedTime": 1540303688526,
+            "changeTime": 1540303688526,
+            "contentHash": "53041cdbc74d4e813d383ad57a16d849a29ad914",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingList",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1540303688528,
+            "changeTime": 1540303688528,
+            "contentHash": "eef976892d9cb29209f6a39c601e74a710146005",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingList/campingList.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingList/campingList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 980,
+            "modifiedTime": 1540303688528,
+            "changeTime": 1540303688528,
+            "contentHash": "552c659948b9f52ad9e0e56095c367114d2a4c06",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingList/campingList.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingList/campingList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 212,
+            "modifiedTime": 1540303688527,
+            "changeTime": 1540303688527,
+            "contentHash": "878effb4725156bc213fc944de78beaef198d0c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingList/campingListController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingList/campingListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1256,
+            "modifiedTime": 1540303688528,
+            "changeTime": 1540303688528,
+            "contentHash": "cdf5ba580468ed632233891e021702b6d0add835",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingList/campingListHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingList/campingListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 420,
+            "modifiedTime": 1540303688529,
+            "changeTime": 1540303688529,
+            "contentHash": "f6e85c9b8dd436199fa2e84ec7b22f34d7eb152e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1540303688534,
+            "changeTime": 1540303688534,
+            "contentHash": "a2ccee0f70452676c31d5227b85f68138ea1d809",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListForm.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListForm.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1540303688531,
+            "changeTime": 1540303688531,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListForm.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListForm.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1821,
+            "modifiedTime": 1540303688531,
+            "changeTime": 1540303688531,
+            "contentHash": "1a1d9d8ab0a2e846193b35b11a953ff03c41d699",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListForm.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListForm.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 216,
+            "modifiedTime": 1540303688530,
+            "changeTime": 1540303688530,
+            "contentHash": "80fe431a9abf2c69ad6401980580ffad1ac7e359",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListForm.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListForm.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1540303688532,
+            "changeTime": 1540303688532,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListForm.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListForm.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 39,
+            "modifiedTime": 1540303688532,
+            "changeTime": 1540303688532,
+            "contentHash": "23788998e40fefc4b806a91823183af35d6f7dfa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListForm.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListForm.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 210,
+            "modifiedTime": 1540303688533,
+            "changeTime": 1540303688533,
+            "contentHash": "b534bdd176c8860d6e603bb5e978ce6ed9650989",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListFormController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListFormController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1127,
+            "modifiedTime": 1540303688533,
+            "changeTime": 1540303688533,
+            "contentHash": "d2c8ceec4a51f44ffa6a4071efe76734244dafa4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListFormHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListFormHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 790,
+            "modifiedTime": 1540303688534,
+            "changeTime": 1540303688534,
+            "contentHash": "37f01a8c4567b0f522787f5f433708b2d3010a2a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListFormRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListForm/campingListFormRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 48,
+            "modifiedTime": 1540303688534,
+            "changeTime": 1540303688534,
+            "contentHash": "be4fb16cab0788e3690426cade38290457df8023",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListItem",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1540303688537,
+            "changeTime": 1540303688537,
+            "contentHash": "7d4d9d32dc5b8264bdb82ac896f72ab1ec6558bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListItem/campingListItem.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListItem/campingListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 753,
+            "modifiedTime": 1540303688536,
+            "changeTime": 1540303688536,
+            "contentHash": "debf0b7a8e428abaca7e00b48693edce406d05f7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListItem/campingListItem.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListItem/campingListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1540303688536,
+            "changeTime": 1540303688536,
+            "contentHash": "2bd60384cf3d7e49c0c63a95af305641754b7449",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListItem/campingListItemController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListItem/campingListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 217,
+            "modifiedTime": 1540303688537,
+            "changeTime": 1540303688537,
+            "contentHash": "a5bf737ac507c9936708ee278e8d06a1e27af8f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListItem/campingListItemRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/campingListItem/campingListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 48,
+            "modifiedTime": 1540303688538,
+            "changeTime": 1540303688538,
+            "contentHash": "be4fb16cab0788e3690426cade38290457df8023",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1540303688545,
+            "changeTime": 1540303688545,
+            "contentHash": "666e09aee634a98fb1e800c3edad0c995313413a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseForm.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseForm.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1540303688540,
+            "changeTime": 1540303688540,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseForm.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseForm.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2223,
+            "modifiedTime": 1540303688541,
+            "changeTime": 1540303688541,
+            "contentHash": "a34eda0bbe9c828f6fbfced2308c41e18869dbae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseForm.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseForm.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 216,
+            "modifiedTime": 1540303688539,
+            "changeTime": 1540303688539,
+            "contentHash": "80fe431a9abf2c69ad6401980580ffad1ac7e359",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseForm.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseForm.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1540303688541,
+            "changeTime": 1540303688541,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseForm.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseForm.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 39,
+            "modifiedTime": 1540303688542,
+            "changeTime": 1540303688542,
+            "contentHash": "23788998e40fefc4b806a91823183af35d6f7dfa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseForm.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseForm.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 210,
+            "modifiedTime": 1540303688543,
+            "changeTime": 1540303688543,
+            "contentHash": "b534bdd176c8860d6e603bb5e978ce6ed9650989",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseFormController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseFormController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 57,
+            "modifiedTime": 1540303688543,
+            "changeTime": 1540303688543,
+            "contentHash": "b6617c89596c5aa5bced78088a52a8289bf4cb21",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseFormHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseFormHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1540303688544,
+            "changeTime": 1540303688544,
+            "contentHash": "d31506184191028eae4a3f175cb46809950ea6c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseFormRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseForm/expenseFormRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 48,
+            "modifiedTime": 1540303688545,
+            "changeTime": 1540303688545,
+            "contentHash": "be4fb16cab0788e3690426cade38290457df8023",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseItem",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1540303688548,
+            "changeTime": 1540303688548,
+            "contentHash": "f30ae0d54c261da436c8a691e9f912aeb057c429",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseItem/expenseItem.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseItem/expenseItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1271,
+            "modifiedTime": 1540303688547,
+            "changeTime": 1540303688547,
+            "contentHash": "8f5abbd3b118d803cc1e068c9277ee499ddc1544",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseItem/expenseItem.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseItem/expenseItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1540303688547,
+            "changeTime": 1540303688547,
+            "contentHash": "2bd60384cf3d7e49c0c63a95af305641754b7449",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseItem/expenseItemController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenseItem/expenseItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 179,
+            "modifiedTime": 1540303688549,
+            "changeTime": 1540303688549,
+            "contentHash": "c435f8259b76647cd85d9eab1e2f4111729c9ef7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenses",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenses",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1540303688552,
+            "changeTime": 1540303688552,
+            "contentHash": "c487bc66d1cd8c681611a41ea0b208347558f79d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenses/expenses.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenses/expenses.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1282,
+            "modifiedTime": 1540303688551,
+            "changeTime": 1540303688551,
+            "contentHash": "026fbcf77d039a71083fee7e5138385f1f0ee127",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenses/expenses.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenses/expenses.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1540303688550,
+            "changeTime": 1540303688550,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenses/expensesController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenses/expensesController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1261,
+            "modifiedTime": 1540303688552,
+            "changeTime": 1540303688552,
+            "contentHash": "78efa27bb2f322c760b2f0a61727859be115595d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenses/expensesHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expenses/expensesHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 670,
+            "modifiedTime": 1540303688553,
+            "changeTime": 1540303688553,
+            "contentHash": "8a05f5c63c313dad598d1c627785c063e3a76327",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesApp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1540303688555,
+            "changeTime": 1540303688555,
+            "contentHash": "dc349fb04bc768c6b104993c701f45c056ca7802",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesApp/expensesApp.app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesApp/expensesApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 77,
+            "modifiedTime": 1540303688555,
+            "changeTime": 1540303688555,
+            "contentHash": "cea12d874548814736eb51b072b30d3fad7e6f3f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesApp/expensesApp.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesApp/expensesApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1540303688554,
+            "changeTime": 1540303688554,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesItemUpdate",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesItemUpdate",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1540303688557,
+            "changeTime": 1540303688557,
+            "contentHash": "b8690fee91d61419a62152946059600db62e9558",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesItemUpdate/expensesItemUpdate.evt",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesItemUpdate/expensesItemUpdate.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 98,
+            "modifiedTime": 1540303688557,
+            "changeTime": 1540303688557,
+            "contentHash": "02c04f032ecf627c123da8043263454ac311ab50",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesItemUpdate/expensesItemUpdate.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesItemUpdate/expensesItemUpdate.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 237,
+            "modifiedTime": 1540303688556,
+            "changeTime": 1540303688556,
+            "contentHash": "b4a7ae905a0916420f4ff3892d6050e0cceaf5b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesList",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1540303688563,
+            "changeTime": 1540303688563,
+            "contentHash": "40558e98e47682a5b205183c0f7bdd2c97b29d31",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesList/expensesList.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesList/expensesList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 360,
+            "modifiedTime": 1540303688559,
+            "changeTime": 1540303688559,
+            "contentHash": "4d0c9e12190b8e141bfadb67fc213a1a07649880",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesList/expensesList.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesList/expensesList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1540303688559,
+            "changeTime": 1540303688559,
+            "contentHash": "f47fe6f224c3d5ab6cbb0fc953644077aef3c2f1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesList/expensesList.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesList/expensesList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1540303688560,
+            "changeTime": 1540303688560,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesList/expensesListController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesList/expensesListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 57,
+            "modifiedTime": 1540303688561,
+            "changeTime": 1540303688561,
+            "contentHash": "b6617c89596c5aa5bced78088a52a8289bf4cb21",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesList/expensesListHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesList/expensesListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1540303688562,
+            "changeTime": 1540303688562,
+            "contentHash": "82bff16b3e0b457e56a7b6c6ea32695c8ebb9d7b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesList/expensesListRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/expensesList/expensesListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 48,
+            "modifiedTime": 1540303688563,
+            "changeTime": 1540303688563,
+            "contentHash": "be4fb16cab0788e3690426cade38290457df8023",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/harnessApp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/harnessApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1540303688566,
+            "changeTime": 1540303688566,
+            "contentHash": "2a07cdf00026e3d67e3989613bda1c0a13da4082",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/harnessApp/harnessApp.app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/harnessApp/harnessApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 83,
+            "modifiedTime": 1540303688566,
+            "changeTime": 1540303688566,
+            "contentHash": "3ae492791afb88a5a3668b2538243edf51b1aaae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/harnessApp/harnessApp.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/harnessApp/harnessApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 220,
+            "modifiedTime": 1540303688566,
+            "changeTime": 1540303688566,
+            "contentHash": "e4a3814c8470ed1e8b987bd916e49e119dee436b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/harnessHello",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/harnessHello",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1540303688568,
+            "changeTime": 1540303688568,
+            "contentHash": "6f48f260751b770df30432c7ae2711e09effc564",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/harnessHello/harnessHello.app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/harnessHello/harnessHello.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 80,
+            "modifiedTime": 1540303688569,
+            "changeTime": 1540303688569,
+            "contentHash": "0d0e25a0b0d51bab699a6abb1c70221c4772bfb3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/harnessHello/harnessHello.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/harnessHello/harnessHello.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1540303688568,
+            "changeTime": 1540303688568,
+            "contentHash": "2bd60384cf3d7e49c0c63a95af305641754b7449",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloHeading",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloHeading",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1540303688571,
+            "changeTime": 1540303688571,
+            "contentHash": "4851805f1eec57d892e1dd304ec3eea93739b95f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloHeading/helloHeading.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloHeading/helloHeading.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 59,
+            "modifiedTime": 1540303688571,
+            "changeTime": 1540303688571,
+            "contentHash": "92441ceb7ef059e6897ebe8b37b232ccf235654a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloHeading/helloHeading.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloHeading/helloHeading.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 206,
+            "modifiedTime": 1540303688570,
+            "changeTime": 1540303688570,
+            "contentHash": "4f7ee8a0ed05ba974b7bc35abe89bf6411b1c58b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMess",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMess",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1540303688574,
+            "changeTime": 1540303688574,
+            "contentHash": "2096b5ca7c2712e5f4ad1162c26e0f7224f2bb24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMess/helloMess.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMess/helloMess.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1540303688574,
+            "changeTime": 1540303688574,
+            "contentHash": "d008175b9de5fc0421d6d51d9a0ccdd5e0ce3046",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMess/helloMess.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMess/helloMess.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1540303688573,
+            "changeTime": 1540303688573,
+            "contentHash": "2bd60384cf3d7e49c0c63a95af305641754b7449",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMessage",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMessage",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1540303688576,
+            "changeTime": 1540303688576,
+            "contentHash": "2f9f1672b0be4d04102e61dc097f0e3c05ac2902",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMessage/helloMessage.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMessage/helloMessage.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 122,
+            "modifiedTime": 1540303688576,
+            "changeTime": 1540303688576,
+            "contentHash": "544d27654bf5852774a857dba6353a5a0bf2dba6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMessage/helloMessage.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMessage/helloMessage.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1540303688576,
+            "changeTime": 1540303688576,
+            "contentHash": "2bd60384cf3d7e49c0c63a95af305641754b7449",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMessageInteractive",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMessageInteractive",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1540303688580,
+            "changeTime": 1540303688580,
+            "contentHash": "88802e24db2a27d9ef8dde54eb2f5ee12c3867c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMessageInteractive/helloMessageInteractive.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMessageInteractive/helloMessageInteractive.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 405,
+            "modifiedTime": 1540303688579,
+            "changeTime": 1540303688579,
+            "contentHash": "9ec5cf8a59e9d7f212aee4a3899017abf21833fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMessageInteractive/helloMessageInteractive.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMessageInteractive/helloMessageInteractive.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1540303688578,
+            "changeTime": 1540303688578,
+            "contentHash": "2bd60384cf3d7e49c0c63a95af305641754b7449",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMessageInteractive/helloMessageInteractiveController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloMessageInteractive/helloMessageInteractiveController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 202,
+            "modifiedTime": 1540303688580,
+            "changeTime": 1540303688580,
+            "contentHash": "aec7e04fd332c1ac749aed542411e5f6e9c28d64",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloPlayground",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloPlayground",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1540303688582,
+            "changeTime": 1540303688582,
+            "contentHash": "71f37e07e097205cdf559b0c6351de2915c4f35f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloPlayground/helloPlayground.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloPlayground/helloPlayground.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 994,
+            "modifiedTime": 1540303688582,
+            "changeTime": 1540303688582,
+            "contentHash": "771efaa9771050a86b8001bfb0150dace944f765",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloPlayground/helloPlayground.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloPlayground/helloPlayground.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1540303688581,
+            "changeTime": 1540303688581,
+            "contentHash": "2bd60384cf3d7e49c0c63a95af305641754b7449",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloWorld",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloWorld",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1540303688588,
+            "changeTime": 1540303688588,
+            "contentHash": "1aa385b0d1b75ed89c1bae686550496ee27604cc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloWorld/helloWorld.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloWorld/helloWorld.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 98,
+            "modifiedTime": 1540303688585,
+            "changeTime": 1540303688585,
+            "contentHash": "b3fcc0ffe5f13c37c4c71b18e785eefa8d705f61",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloWorld/helloWorld.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloWorld/helloWorld.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 217,
+            "modifiedTime": 1540303688584,
+            "changeTime": 1540303688584,
+            "contentHash": "f21fb9bd386997fbccf157f9f3f76a2b7289823d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloWorld/helloWorld.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloWorld/helloWorld.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1540303688586,
+            "changeTime": 1540303688586,
+            "contentHash": "62dda4a9b8a1543d6ddd02a3175237fd0c401dbf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloWorld/helloWorldController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloWorld/helloWorldController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 60,
+            "modifiedTime": 1540303688587,
+            "changeTime": 1540303688587,
+            "contentHash": "9fc7736232d1d9d7a40c4cea1d6b22e712d8f8b1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloWorld/helloWorldHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/helloWorld/helloWorldHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1540303688588,
+            "changeTime": 1540303688588,
+            "contentHash": "c3c6efda41de64b759982510d6a2c72226aa087f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1540303688595,
+            "changeTime": 1540303688595,
+            "contentHash": "9aa006b9d67b087877751e0f669f29d440863965",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponent.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponent.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1540303688591,
+            "changeTime": 1540303688591,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponent.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 33,
+            "modifiedTime": 1540303688591,
+            "changeTime": 1540303688591,
+            "contentHash": "cbffa54650fb5ade8b9ab64480e83675af5e69e2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponent.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1540303688590,
+            "changeTime": 1540303688590,
+            "contentHash": "9b9b20c62b70df7181d6931db18e625563a92011",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponent.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponent.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1540303688592,
+            "changeTime": 1540303688592,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponent.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponent.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 39,
+            "modifiedTime": 1540303688592,
+            "changeTime": 1540303688592,
+            "contentHash": "23788998e40fefc4b806a91823183af35d6f7dfa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponent.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponent.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 210,
+            "modifiedTime": 1540303688593,
+            "changeTime": 1540303688593,
+            "contentHash": "b534bdd176c8860d6e603bb5e978ce6ed9650989",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponentController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponentController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 57,
+            "modifiedTime": 1540303688594,
+            "changeTime": 1540303688594,
+            "contentHash": "b6617c89596c5aa5bced78088a52a8289bf4cb21",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponentHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponentHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1540303688595,
+            "changeTime": 1540303688595,
+            "contentHash": "82bff16b3e0b457e56a7b6c6ea32695c8ebb9d7b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponentRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/aura/testComponent/testComponentRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 48,
+            "modifiedTime": 1540303688596,
+            "changeTime": 1540303688596,
+            "contentHash": "be4fb16cab0788e3690426cade38290457df8023",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 384,
+            "modifiedTime": 1540318850586,
+            "changeTime": 1540318850586,
+            "contentHash": "f8d7a5b262ce765bf284829867ae7fdbaf984e5a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/CampingListController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/CampingListController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 860,
+            "modifiedTime": 1540303688517,
+            "changeTime": 1540303688517,
+            "contentHash": "45f135e306edcff0991c7032a55fe115bc3cd488",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/CampingListController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/CampingListController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1540303688514,
+            "changeTime": 1540303688514,
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/ClosedOpportunityTrigger.trigger",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/ClosedOpportunityTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 423,
+            "modifiedTime": 1540309817299,
+            "changeTime": 1540309817299,
+            "contentHash": "3d225876eddb838ec7139ed3f8b19c924c171629",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/ClosedOpportunityTrigger.trigger-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/ClosedOpportunityTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1540309817300,
+            "changeTime": 1540309817300,
+            "contentHash": "9cf5e286b8ec4d806b0399e91d5869e34291a1a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/ExpensesController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/ExpensesController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1110,
+            "modifiedTime": 1540303688520,
+            "changeTime": 1540303688520,
+            "contentHash": "4188f3219d7db458841d5e5bf2a27dc4264275be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/ExpensesController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/ExpensesController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1540303688519,
+            "changeTime": 1540303688519,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/TestVerifyDate.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/TestVerifyDate.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 742,
+            "modifiedTime": 1540325231911,
+            "changeTime": 1540325231911,
+            "contentHash": "0717d7d2464175c096dda09c89390e1cb81b4f18",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/TestVerifyDate.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/TestVerifyDate.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1540318850586,
+            "changeTime": 1540318850586,
+            "contentHash": "51d26a75b7d0f10275be409dfd77068d020418eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/VerifyDate.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/VerifyDate.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1069,
+            "modifiedTime": 1540324153052,
+            "changeTime": 1540324153052,
+            "contentHash": "1fee15cabe75e63df42cd0bd4a1bd570b7c7da65",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/VerifyDate.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB/force-app/main/default/classes/VerifyDate.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 188,
+            "modifiedTime": 1540318303079,
+            "changeTime": 1540318303079,
+            "contentHash": "416d57ae09d9e9a2885436a426eacc71dc635d35",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/davidryan/Code/ApexSpecialistSB",
+        {
+            "state": "n",
+            "sourcePath": "/Users/davidryan/Code/ApexSpecialistSB",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1540307737761,
+            "changeTime": 1540307737761,
+            "contentHash": "6577cfcc9d84ce5f178b50d328d09ade00dbb9b9",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
